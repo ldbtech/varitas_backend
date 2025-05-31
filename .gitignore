@@ -1,0 +1,4 @@
+# Virtual Environment
+scrab-service/venv/
+gateway-service/venv/
+agent-service/venv/
